@@ -17,7 +17,7 @@ const AboutPage = () => {
         framerProps={{
           show: { transition: { delay: 0.8 } },
         }}
-        text="Bill Of Quantities (BOQ) Professionals Den"
+        text="Bill Of Quantities (BOQ) Experts Den"
       />
              <FadeText
         className="text-md"

@@ -167,7 +167,7 @@ export default function TrainingPage() {
 
        <div className="my-[5%] flex flex-col gap-5">
           <h1 className="text-2xl md:text-3xl font-bold text-primary">Instructor Biography</h1>
-           <div className="flex items-center gap-5">
+           <div className="flex items-center gap-7">
             <Avatar className='scale-[300%]'>
               <AvatarImage src="/female.jpg" className='w-10 h-10'/>
               <AvatarFallback>Selome</AvatarFallback>

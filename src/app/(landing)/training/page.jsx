@@ -200,7 +200,7 @@ export default function TrainingPage() {
             </Avatar>
             <div className="flex flex-col gap-4">
            <h1 className="text-2xl md:text-3xl font-bold text-primary">Selome Mekonen</h1>
-            <p className="text-md text-gray-500">Jane is a senior instructor at Quantify with over 10 years of experience in teaching and construction management.</p>
+            <p className="text-md text-gray-500">Selome is a senior instructor at Quantify with over 10 years of experience in teaching and construction management.</p>
             </div>
            </div>
        </div>

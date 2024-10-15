@@ -222,7 +222,7 @@ const Workers = () => {
              
                 <Drawer>
                   <DrawerTrigger>
-                     <Button className="flex items-center gap-3 bg-secondary hover:bg-secondary" >View Detail <Eye /></Button>  
+                     <Button className="flex items-center gap-3 bg-secondary hover:bg-secondary text-black" >View Detail <Eye /></Button>  
                   </DrawerTrigger>
                   <DrawerContent className='h-[95%] '>
                      <div className="h-[85%] overflow-y-auto px-6">

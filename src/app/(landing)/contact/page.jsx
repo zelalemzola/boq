@@ -5,7 +5,7 @@ import React from 'react'
 const ContactPage = () => {
   return (
     <div className="md:px-4">
-        <div className="aboutHero relative h-[55vh] md:h-[75vh] rounded-2xl shadow-2xl flex items-center justify-center p-6 md:p-10 ">
+        <div className="aboutHero relative h-[45vh] md:h-[75vh] rounded-2xl shadow-2xl flex items-center justify-center p-6 md:p-10 ">
          
          <div className="aboutHero-content flex flex-col gap-5 text-white z-40 text-center">
              <FadeText

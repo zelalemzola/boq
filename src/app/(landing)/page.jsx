@@ -59,7 +59,7 @@ export default function Home() {
         <div className="flex flex-col md:flex-row  gap-6 md:gap-6 mt-[2%]">
         <div className="flex flex-col gap-4 md:w-[30%]">
           <BlurFade delay={0.85} inView='true'>
-          <Image src='/1.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl"/>
+          <Image src='/1.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl h-[220px]"/>
           </BlurFade>
           <FadeText
             
@@ -85,7 +85,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col gap-4 md:w-[30%]">
                <BlurFade delay={0.95} inView='true'>
-          <Image src='/2.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl"/>
+          <Image src='/2.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl h-[220px]"/>
           </BlurFade>
           <FadeText
             
@@ -112,7 +112,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col gap-4 md:w-[30%]">
                <BlurFade delay={1} inView='true'>
-          <Image src='/3.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl"/>
+          <Image src='/3.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl h-[220px]"/>
           </BlurFade>
            <FadeText
             
@@ -139,7 +139,7 @@ export default function Home() {
         </div>
         <div className="flex flex-col gap-4 md:w-[30%]">
                <BlurFade delay={1.1} inView='true'>
-          <Image src='/4.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl"/>
+          <Image src='/4.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl h-[220px]"/>
           </BlurFade>
             <FadeText
             

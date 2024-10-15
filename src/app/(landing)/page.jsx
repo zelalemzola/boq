@@ -35,7 +35,7 @@ export default function Home() {
       />
             {/* <h1 className="text-2xl md:text-4xl font-bold">Calculate your Bill Of Quantities with confidence.</h1> */}
             {/* <p className="text-md "> Spend less time on spreadsheets and more time on the things that matter. Get a quicker, more accurate BOQ.</p> */}
-            <Button className='px-3 py-3 rounded-full shadow-md hover:shadow-2xl bg-primary  w-fit text-lg hover:bg-[#73b7c2]'>Get Started</Button>
+            <Link href='/contact' className='px-3 py-3 rounded-full shadow-md hover:shadow-2xl bg-primary  w-fit text-lg hover:bg-[#73b7c2]'>Get Started</Link>
          </div>
          
          
@@ -54,7 +54,7 @@ export default function Home() {
         text="Quantify is an online platform that helps you get professional Bill of Quantities (BOQ) calculation. Whether you are a builder, developer or contractor, you can easily upload your construction plan, and get a detailed and accurate BOQ report in minutes"
       />
         {/* <p className="text-md md:text-lg w-[95%] md:w-[80%] text-gray-500">BOQ Pro is an online platform that helps you get professional Bill of Quantities (BOQ) calculation. Whether you are a builder, developer or contractor, you can easily upload your construction plan,/ and get a detailed and accurate BOQ report in minutes.</p> */}
-        <Link href='' className='p-2  text-white rounded-xl shadow-md hover:shadow-2xl bg-primary  w-fit  hover:bg-[#73b7c2]'>Get Started</Link>
+        <Link href='/contact' className='p-2  text-white rounded-xl shadow-md hover:shadow-2xl bg-primary  w-fit  hover:bg-[#73b7c2]'>Get Started</Link>
         
         <div className="flex flex-col md:flex-row  gap-6 md:gap-6 mt-[2%]">
         <div className="flex flex-col gap-4 md:w-[30%]">
@@ -188,7 +188,7 @@ export default function Home() {
              </AccordionContent>
            </AccordionItem>
          </Accordion>
-          <Link href='' className='p-2  text-white rounded-xl shadow-md hover:shadow-2xl bg-primary  w-fit  hover:bg-[#73b7c2] self-end'>Get Started</Link>
+          <Link href='/contact' className='p-2  text-white rounded-xl shadow-md hover:shadow-2xl bg-primary  w-fit  hover:bg-[#73b7c2] self-end'>Get Started</Link>
        </div>
        
 
@@ -203,7 +203,7 @@ export default function Home() {
         }}
         text="Join the thousands of builders who trust Quantify"
       />
-            <Button className='px-3 py-3 rounded-full shadow-md hover:shadow-2xl bg-primary  w-fit text-lg hover:bg-[#73b7c2]'>Get Started</Button>
+            <Link href='/contact' className='px-3 py-3 rounded-full shadow-md hover:shadow-2xl bg-primary  w-fit text-lg hover:bg-[#73b7c2]'>Get Started</Link>
          </div>
          
          

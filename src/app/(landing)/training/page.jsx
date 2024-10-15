@@ -137,33 +137,7 @@ export default function TrainingPage() {
       />
           
         </div>
-        <div className="flex flex-col gap-4 md:w-[30%]">
-               <BlurFade delay={1.1} inView='true'>
-          <Image src='/4.jpg' alt='' width={100} height={100} className="object-cover w-[95%] rounded-xl shadow-xl h-[200px]"/>
-          </BlurFade>
-            <FadeText
-            
-        className="text-primary text-xl font-bold"
-        direction="left"
-        framerProps={{
-          show: { transition: { delay: 1.2 } },
-          
-        }}
-        text="Accurate"
-      />
-          
-          <FadeText
-            
-        className="text-md text-gray-500"
-        direction="left"
-        framerProps={{
-          show: { transition: { delay: 1.1 } },
-          
-        }}
-        text="Detailed & Accurate BOQ reports"
-      />
-         
-        </div>
+      
        </div>
        </div>
        <div className="flex flex-col gap-5 mt-[2%] mb-[5%] ">

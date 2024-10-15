@@ -203,7 +203,7 @@ const Workers = () => {
           <Card key={maid._id} className="relative shadow-lg py-4 md:p-4 scale-[90%] md:scale-100 bg-primary text-white hover:shadow-xl">
             <CardHeader>
               <div className="flex items-center justify-center">
-                <Avatar className="absolute top-0 mt-[-15%]">
+                <Avatar className="absolute top-0 mt-[-15%] scale-[200%]">
                   <AvatarImage src={maid.imageUrl} alt="worker photo" />
                   <AvatarFallback>worker photo</AvatarFallback>
                 </Avatar>

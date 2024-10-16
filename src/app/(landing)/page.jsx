@@ -9,6 +9,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion"
+import Partners from "./_components/Partners";
 
 export default function Home() {
   return (
@@ -191,7 +192,7 @@ export default function Home() {
           <Link href='/contact' className='p-2  text-white rounded-xl shadow-md hover:shadow-2xl bg-primary  w-fit  hover:bg-[#73b7c2] self-end'>Get Started</Link>
        </div>
        
-
+       <Partners/>
        <div className="footer relative h-[45vh] md:h-[75vh] rounded-2xl shadow-2xl flex items-end p-6 md:p-10 my-[5%] ">
          
          <div className="footer-content flex flex-col gap-5 text-white z-40">

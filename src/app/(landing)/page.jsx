@@ -52,7 +52,7 @@ export default function Home() {
           show: { transition: { delay: 1 } },
           
         }}
-        text="Quantify is an online platform that helps you get professional Bill of Quantities (BOQ) calculation. Whether you are a builder, developer or contractor, you can easily upload your construction plan, and get a detailed and accurate BOQ report in minutes"
+        text="Quantify is a platform that helps you get professional Bill of Quantities (BOQ) calculation. Whether you are a builder, developer or contractor, you can easily upload your construction plan, and get a detailed and accurate BOQ report in minutes"
       />
         {/* <p className="text-md md:text-lg w-[95%] md:w-[80%] text-gray-500">BOQ Pro is an online platform that helps you get professional Bill of Quantities (BOQ) calculation. Whether you are a builder, developer or contractor, you can easily upload your construction plan,/ and get a detailed and accurate BOQ report in minutes.</p> */}
         <Link href='/contact' className='p-2  text-white rounded-xl shadow-md hover:shadow-2xl bg-primary  w-fit  hover:bg-[#73b7c2]'>Get Started</Link>

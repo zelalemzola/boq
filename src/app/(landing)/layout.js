@@ -8,8 +8,8 @@ const inter = Outfit({ subsets: ["latin"],});
 
 
 export const metadata = {
-  title: "BOQ Professionals",
-  description: "BOQ Professionals",
+  title: "Quantify BOQ",
+  description: "Quantify BOQ",
 };
 
 export default function LandingLayout({ children }) {
